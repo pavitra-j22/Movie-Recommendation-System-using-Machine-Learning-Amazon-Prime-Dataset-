@@ -43,8 +43,8 @@ imdb_votes, tmdb_score, tmdb_popularity, runtime, and release_year are the most 
 - How to Run
 Clone the repository:
 bash
-   git clone https://github.com/pavitra-j22/Book-Recommendation-System.git
-   cd Book-Recommendation-System
+   git clone https://github.com/pavitra-j22/Movie-Recommendation-System-using-Machine-Learning-Amazon-Prime-Dataset
+   cd Movie-Recommendation-System-using-Machine-Learning-Amazon-Prime-Dataset
 Open the notebook in Google Colab or Jupyter.
 Upload titles.csv and credits.csv to the working directory.
 Run all cells sequentially.
